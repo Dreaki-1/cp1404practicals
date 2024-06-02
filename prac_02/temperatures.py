@@ -1,9 +1,13 @@
-"""This program converts temperatures"""
+"""
+Prac_02 - temperatures
+"""
+
+MENU = """C - Convert Celsius to Fahrenheit\nF - Convert Fahrenheit to Celsius\nQ - Quit"""
 
 
 def main():
-    """Main function"""
-    MENU = """C - Convert Celsius to Fahrenheit\nF - Convert Fahrenheit to Celsius\nQ - Quit"""
+    """This program converts temperatures"""
+
     print(MENU)
     choice = input(">>> ").upper()
     while choice != "Q":

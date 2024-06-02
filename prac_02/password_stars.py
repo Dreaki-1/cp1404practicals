@@ -1,4 +1,6 @@
-"""password_stars.py"""
+"""
+Prac_02 - Password Stars
+"""
 
 
 def main():

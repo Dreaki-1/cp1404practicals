@@ -14,3 +14,15 @@ while choice != "Q":
     choice = input("Enter choice: ").upper()
 if choice == "Q":
     print("Finished.")
+
+
+    def determine_score_status(score):
+        """Take user's score and determine the status"""
+        if score < 0 or score > 100:
+            return "Invalid score"
+        elif score < 50:
+            return "Bad"
+        elif score < 90:
+            return "Passable"
+        else:
+            return "Excellent"
