@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 numbers = [3, 1, 4, 1, 5, 9, 2]
 # 3
 # 2
@@ -21,7 +21,7 @@ print(numbers[2:])
 
 # Print whether 9 is an element of numbers
 
-=======
+
 numbers = [3, 1, 4, 1, 5, 9, 2]
 # 3
 # 2
@@ -44,5 +44,4 @@ print(numbers[2:])
 
 # Print whether 9 is an element of numbers
 
->>>>>>> origin/master
 print(9 in numbers)

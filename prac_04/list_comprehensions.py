@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 """
 CP1404/CP5632 Practical
 List comprehensions
@@ -52,7 +52,7 @@ greater_names = [str(full_names) for full_names in full_names if not len(full_na
 for name in greater_names:
     name = name.split(" ")
     print(name[1], end=", ")
-=======
+
 """
 CP1404/CP5632 Practical
 List comprehensions
@@ -106,4 +106,4 @@ greater_names = [str(full_names) for full_names in full_names if not len(full_na
 for name in greater_names:
     name = name.split(" ")
     print(name[1], end=", ")
->>>>>>> origin/master
+

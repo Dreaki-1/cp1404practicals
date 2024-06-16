@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 """
 CP1404/CP5632 Practical
 Starter code for cumulative total income program
@@ -26,7 +26,7 @@ def print_report(incomes, months):
 
 
 main()
-=======
+
 """
 CP1404/CP5632 Practical
 Starter code for cumulative total income program
@@ -54,4 +54,4 @@ def print_report(incomes, months):
 
 
 main()
->>>>>>> origin/master
+

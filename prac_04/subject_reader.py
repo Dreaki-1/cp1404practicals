@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 """
 CP1404/CP5632 Practical
 Data file -> lists program
@@ -34,7 +34,7 @@ def load_data():
 
 
 main()
-=======
+
 """
 CP1404/CP5632 Practical
 Data file -> lists program
@@ -70,4 +70,4 @@ def load_data():
 
 
 main()
->>>>>>> origin/master
+

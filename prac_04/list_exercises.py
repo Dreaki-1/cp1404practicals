@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 """
 List Exercises
 CP1404
@@ -60,4 +60,4 @@ if username in usernames:
 else:
     print("Access Denied")
 
->>>>>>> origin/master
+

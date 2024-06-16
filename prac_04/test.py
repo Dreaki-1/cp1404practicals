@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-"""
-#ASK HARUN
 
-
-"""
 
 #DO THIS NOW LEcture vid 2
 from operator import itemgetter
@@ -49,4 +44,3 @@ except TypeError:
 
 
 
->>>>>>> origin/master
