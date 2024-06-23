@@ -4,8 +4,8 @@ COLOUR_NAMES = {"Absolute Zero": "#0048ba", "Acid Green": "#b0bf1a", "AliceBlue"
 valid_colours = {name.lower(): colour.lower() for name, colour in COLOUR_NAMES.items()}
 
 choice = input("Valid Colours:").lower()
-while choice not in valid_colours:
-    print("Please enter a valid colour")
-    choice = input("Valid Colours:").lower()
-else:
+while choice != "":
     print(f"The color code for {choice} is {valid_colours[choice]}")
+    choice = input("Valid Colours:").lower()
+
+
